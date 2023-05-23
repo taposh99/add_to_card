@@ -6,7 +6,7 @@
         <tr>
             <th>Product</th>
             <th>Price</th>
-            <th>Total</th>
+            <th>Total money</th>
             <th></th>
         </tr>
     </thead>
